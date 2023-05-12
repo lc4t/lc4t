@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😨 你怎么到这里来了 ( ´◔ ‸◔`)
 
 <!--
 **lc4t/lc4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
