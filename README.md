@@ -19,11 +19,20 @@ Here are some ideas to get you started:
 <p align="left"
 
    <a href="mailto:lc4t0.0@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-   <a href="https://line.me/ti/p/9FwkUc6z0D"><img alt="Line" src="https://img.shields.io/badge/Line-00C300??style=flat&logo=appveyor&logo=appveyor&logo=line&logoColor=white"></a>
+   <a href="https://line.me/ti/p/9FwkUc6z0D"><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white"></a>
 
 </p>
 
-### 🚀 Technical
+#### 🐠 Base
+<p aligh="left">
+   <img alt="Network Security" src="https://img.shields.io/badge/industry-Network%20Security-66CCFF?style=flat-square">
+   <br/>
+   <img alt="Chinese" src="https://img.shields.io/badge/语言-简体中文(100%25)-CC0033?style=flat-square">
+   <img alt="English" src="https://img.shields.io/badge/Language-English(70%25)-FFCC00?style=flat-square">
+   <img alt="言語" src="https://img.shields.io/badge/Language-日本語(20%25)-006600?style=flat-square">
+</p>
+
+#### 🚀 Technical
 
 <p align="left">
 
@@ -44,7 +53,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-### 🛠 Tools
+#### 🛠 Tools
 
 <p align="left">
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
@@ -54,8 +63,7 @@ Here are some ideas to get you started:
   <img alt="Adobe Lightroom Classic" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white">
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
-  
 <p/>
 
-### 📚 In Learning
+#### 📚 In Learning
 
