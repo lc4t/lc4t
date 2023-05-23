@@ -30,6 +30,8 @@ Here are some ideas to get you started:
    <img alt="Chinese" src="https://img.shields.io/badge/语言-简体中文(100%25)-CC0033?style=flat-square">
    <img alt="English" src="https://img.shields.io/badge/Language-English(70%25)-FFCC00?style=flat-square">
    <img alt="言語" src="https://img.shields.io/badge/言語-日本語(20%25)-006600?style=flat-square">
+   <br/>
+   <img alt="MBTI" src="https://img.shields.io/badge/MBTI-INTP-green?style=flat-square">
 </p>
 
 #### 🚀 Technical
@@ -66,4 +68,6 @@ Here are some ideas to get you started:
 <p/>
 
 #### 📚 In Learning
+
+
 
