@@ -67,6 +67,11 @@ Here are some ideas to get you started:
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
 <p/>
 
+#### 🔖 Doing
+
+- [ ] 寻找一些好看的前端去装饰新blog    (▰˘◡˘▰)
+- [ ] 带着我的猫去一个新地方探险        ≧(´▽｀)≦
+
 ---
 
 ![lc4t's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc4t&show_icons=true)
