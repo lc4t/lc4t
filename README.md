@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ---
 
-![lc4t's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc4t&show_icons=true)
+![lc4t's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lc4t&show_icons=true)
 
 
 
