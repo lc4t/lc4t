@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left"
 
-   <a href="mailto:lc4t0.0@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-   <a href="https://line.me/ti/p/9FwkUc6z0D"><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white"></a>
+   <a href="mailto:lc4t0.0#gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+   <!-- <a href="https://line.me/ti/p/9FwkUc6z0D"><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white"></a> -->
 
 </p>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
    <img alt="English" src="https://img.shields.io/badge/Language-English(70%25)-FFCC00?style=flat-square">
    <img alt="言語" src="https://img.shields.io/badge/言語-日本語(20%25)-006600?style=flat-square">
    <br/>
-   <img alt="MBTI" src="https://img.shields.io/badge/MBTI-INTP-green?style=flat-square">
+   <img alt="MBTI" src="https://img.shields.io/badge/MBTI-IN%3FP-green?style=flat-square">
 </p>
 
 #### 🚀 Technical
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 #### 🔖 Doing
 
-- [ ] 寻找一些好看的前端去装饰新blog    (▰˘◡˘▰)
-- [ ] 带着我的猫去一个新地方探险        ≧(´▽｀)≦
+- [ ] 给谷子们找个好看的家    (▰˘◡˘▰)
+- [ ] 比去年多写几篇文章       ≧(´▽｀)≦
 
 ---
 
