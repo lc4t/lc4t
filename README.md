@@ -60,8 +60,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
+   <img alt="Arch Linux" src="https://img.shields.io/badge/ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=F0F0F0">
   <br/>
   <img alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=F0F0F0">
   <br/>
   <img alt="Adobe Lightroom Classic" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white">
