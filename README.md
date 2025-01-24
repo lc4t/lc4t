@@ -71,10 +71,10 @@ Here are some ideas to get you started:
   <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-9933CC.svg?style=flat-square">
 <p/>
 
-#### 🔖 Doing
+#### 🔖 Doing @2025
 
-- [ ] 使用短平快的方法，比去年多写几篇文章   ≧(´▽｀)≦
-- [ ] 建立系统替代结果导向，使得 2024OKR 完成度高于 2023 (*^▽^*)
+- [ ] 继续坚持 Random 周刊   ≧(´▽｀)≦
+- [ ] 站在历史和未来角度，深入我感兴趣的领域 (*^▽^*)
 
 ---
 
