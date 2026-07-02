@@ -76,10 +76,12 @@ visit this url twice: https://blog.sakanano.moe/visit/${YOUR_HOSTNAME}/${YOUR_US
   <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-9933CC.svg?style=flat-square">
 <p/>
 
-#### 🔖 Doing @2025
+#### 🔖 Doing @2026
 
 - [ ] 继续坚持 Random 周刊   ≧(´▽｀)≦
-- [ ] 站在历史和未来角度，深入我感兴趣的领域 (*^▽^*)
+- [ ] 探索 1 个新的兴趣 (*^▽^*)
+- [ ] 完成公开版 cv
+- [ ] iOS APP 上架
 
 ---
 
